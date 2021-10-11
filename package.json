@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/KimShiHyun/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/KimShiHyun/Tech-Blog#readme"
+  "homepage": "https://github.com/KimShiHyun/Tech-Blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.2",
+    "dotenv": "^10.0.0",
+    "express-session": "^1.17.2",
+    "handlebars": "^4.7.7",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.7.0"
+  }
 }
