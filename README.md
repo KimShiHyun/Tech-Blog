@@ -42,7 +42,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ## Links
 
-- [Video](https://youtu.be/n5PJSmcfeG8)
+- [Video](https://youtu.be/_Xm1JxkDDPI)
 - [Heroku Deployment](https://ancient-scrubland-63676.herokuapp.com/)
 - [Github Repo](https://github.com/KimShiHyun/Tech-Blog)
 
