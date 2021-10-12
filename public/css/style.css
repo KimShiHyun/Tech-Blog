@@ -1,0 +1,45 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: white;
+  padding: 5px;
+}
+
+Nav .link {
+  color: black;
+  text-decoration: none;
+  font-size: 2em;
+}
+
+nav a:hover {
+  color: grey;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.app-title {
+  margin-left: 5px;
+}
+
+.card {
+  background-color: coral;
+  border-radius: 30px;
+  display: flex;
+  align-content: center;
+  margin: 10px;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.card-header,
+.card-body {
+  margin-left: 10px;
+}
