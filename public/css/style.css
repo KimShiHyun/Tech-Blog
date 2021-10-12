@@ -6,8 +6,12 @@
 nav {
   display: flex;
   flex-direction: row;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
   justify-content: space-evenly;
-  background-color: white;
+  background-color: orange;
   padding: 5px;
 }
 
@@ -26,11 +30,13 @@ nav a:hover {
 }
 
 .app-title {
-  margin-left: 5px;
+  text-align: center;
+  font-weight: bold;
 }
 
 .card {
   background-color: coral;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   border-radius: 30px;
   display: flex;
   align-content: center;
